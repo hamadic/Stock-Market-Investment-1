@@ -1,0 +1,2 @@
+# Stock-Market-Investment-1
+This project is an attempt to utilize python in finance and investment sphere. Hence, I will apply stock market technical analysis using simple moving average investment strategy. I use real-time data of the most active stocks. It consists of 66 columns and 2196 entries with numerous variables such as date, stock symbol, open price, highest price, lowest price, closing price and traded volume. The source of data is yahoo finance. 
